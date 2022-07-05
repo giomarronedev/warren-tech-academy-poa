@@ -104,8 +104,6 @@ body.dark-mode header {
     background-color: white;
   }
 
-  
-
   nav {
     justify-content: space-between;
     padding-inline: 2rem;
@@ -254,6 +252,10 @@ body.dark-mode header {
     justify-content: center;
     transition: 0.2s;
     width: 18rem;
+  }
+
+  .participant:hover {
+    text-decoration: none;
   }
 
   .participant .participant-name {
