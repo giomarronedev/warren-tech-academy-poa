@@ -26,6 +26,3 @@ async function returnParticipants() {
 }
 
 returnParticipants()
-
-
-
