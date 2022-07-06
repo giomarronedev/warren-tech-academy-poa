@@ -385,8 +385,6 @@ body.dark-mode .footer {
   header {
     border-bottom: 1px solid var(--brand-red);
     padding-top: 2rem;
-    position: sticky;
-    top: 0;
     background-color: white;
     z-index: 1;
   }
@@ -634,8 +632,6 @@ body.dark-mode .footer {
   header {
     border-bottom: 1px solid var(--brand-red);
     padding-top: 2rem;
-    position: sticky;
-    top: 0;
     background-color: white;
     z-index: 1;
   }
