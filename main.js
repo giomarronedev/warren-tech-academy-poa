@@ -17,19 +17,14 @@ async function returnParticipants() {
   for (i = 0; i < data.participants.length; i++) {
 
     let participant = `
-                      <a class="participant" href="./Participants/index.html?participant=${data.participants[i].participantName}">
+                      <div class="participant">
                           <img class="participant-avatar" src="${data.participants[i].participantPhoto}" alt="Avatar">
                           <p class="participant-name">${data.participants[i].participantName}</p>
-                      </a>
+                      </div>
     `
     participantsList.innerHTML += participant
     ;
   }
-}
-
-
-function redirectToParticipant(participant) {
-  console.log(participant)
 }
 
 returnParticipants()
