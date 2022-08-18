@@ -290,7 +290,7 @@ body.dark-mode .footer {
     filter: drop-shadow(0px 0px 10px var(--brand-red));
   }
 
-  /* EXTRAS  ============================================== */
+  /* CRONOLOGIA  ============================================== */
 
   .chronology-boxes {
     margin-top: 3rem;
@@ -543,19 +543,19 @@ body.dark-mode .footer {
     filter: drop-shadow(0px 0px 10px var(--brand-red));
   }
 
-  .extras-boxes {
+  .chronology-boxes {
     margin-top: 3rem;
     display: flex;
     flex-direction: column;
     gap: 5rem;
   }
 
-  .extras-img {
+  .chronology-img {
     border-radius: 1.8rem;
     margin-block: 2rem;
   }
 
-  .extras-item {
+  .chronology-item {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -573,7 +573,7 @@ body.dark-mode .footer {
     margin-block: 2rem;
   }
 
-  .extras p {
+  .chronology p {
     margin: 0;
   }
 
@@ -792,19 +792,19 @@ body.dark-mode .footer {
     filter: drop-shadow(0px 0px 10px var(--brand-red));
   }
 
-  .extras-boxes {
+  .chronology-boxes {
     margin-top: 3rem;
     display: flex;
     flex-direction: column;
     gap: 5rem;
   }
 
-  .extras-img {
+  .chronology-img {
     border-radius: 1.8rem;
     margin-block: 2rem;
   }
 
-  .extras-item {
+  .chronology-item {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -822,7 +822,7 @@ body.dark-mode .footer {
     margin-block: 2rem;
   }
 
-  .extras p {
+  .chronology p {
     margin: 0;
   }
 
