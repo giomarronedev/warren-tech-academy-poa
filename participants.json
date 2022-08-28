@@ -3,131 +3,163 @@
     {
       "id": "1",
       "participantName": "Giovanne Marrone",
-      "participantPhoto": "https://avatars.githubusercontent.com/u/73855868?v=4"
+      "participantPhoto": "https://avatars.githubusercontent.com/u/73855868?v=4",
+      "participantLinkedIn": "https://www.linkedin.com/in/giomarrone/"
     },
     {
       "participantName": "João Krabbe",
-      "participantPhoto": "https://avatars.githubusercontent.com/u/104923023?v=4"
+      "participantPhoto": "https://avatars.githubusercontent.com/u/104923023?v=4",
+      "participantLinkedIn": "https://www.linkedin.com/in/joao-krabbe/"
     },
     {
       "participantName": "Pedro Henrique",
-      "participantPhoto": "https://avatars.githubusercontent.com/u/101677854?v=4"
+      "participantPhoto": "https://avatars.githubusercontent.com/u/101677854?v=4",
+      "participantLinkedIn": "https://www.linkedin.com/in/pedro-silva-647152205/"
     },
     {
       "participantName": "Luam Ahrion",
-      "participantPhoto": "https://avatars.githubusercontent.com/u/88991099?v=4"
+      "participantPhoto": "https://avatars.githubusercontent.com/u/88991099?v=4",
+      "participantLinkedIn": "https://www.linkedin.com/in/luam-ahrion/"
     },
     {
       "participantName": "Douglas Ferreira",
-      "participantPhoto": "https://avatars.githubusercontent.com/u/45185857?v=4"
+      "participantPhoto": "https://avatars.githubusercontent.com/u/45185857?v=4",
+      "participantLinkedIn": "https://www.linkedin.com/in/douglasfs/"
     },
     {
       "participantName": "Luciano Trevisol",
-      "participantPhoto": "https://avatars.githubusercontent.com/u/80292806?v=4"
+      "participantPhoto": "https://avatars.githubusercontent.com/u/80292806?v=4",
+      "participantLinkedIn": ""
     },
     {
       "participantName": "Wagner Morais",
-      "participantPhoto": "https://avatars.githubusercontent.com/u/89792700?v=4"
+      "participantPhoto": "https://avatars.githubusercontent.com/u/89792700?v=4",
+      "participantLinkedIn": "https://www.linkedin.com/in/wagnerlmorais/"
     },
     {
       "participantName": "Mariana Pacheco",
-      "participantPhoto": "https://avatars.githubusercontent.com/u/83087985?v=4"
+      "participantPhoto": "https://avatars.githubusercontent.com/u/83087985?v=4",
+      "participantLinkedIn": "https://www.linkedin.com/in/marianabpacheco/"
     },
     {
       "participantName": "Steven Albernaz",
-      "participantPhoto": "https://avatars.githubusercontent.com/u/69523315?v=4"
+      "participantPhoto": "https://avatars.githubusercontent.com/u/69523315?v=4",
+      "participantLinkedIn": "https://www.linkedin.com/in/steven-albernaz-86290b4b/"
     },
     {
       "participantName": "Diully Ledur",
-      "participantPhoto": "https://avatars.githubusercontent.com/u/106697094?v=4"
+      "participantPhoto": "https://avatars.githubusercontent.com/u/106697094?v=4",
+      "participantLinkedIn": "https://www.linkedin.com/in/diully-ledur-b2b9061b8/"
     },
     {
       "participantName": "Diógenes Ribeiro",
-      "participantPhoto": "https://avatars.githubusercontent.com/u/91908375?v=4"
+      "participantPhoto": "https://avatars.githubusercontent.com/u/91908375?v=4",
+      "participantLinkedIn": "https://www.linkedin.com/in/diogenesriboliveira/"
     },
     {
       "participantName": "Ana Boteleiro",
-      "participantPhoto": "https://avatars.githubusercontent.com/u/106985798?v=4"
+      "participantPhoto": "https://avatars.githubusercontent.com/u/106985798?v=4",
+      "participantLinkedIn": "https://www.linkedin.com/in/anaboteleiro/"
     },
     {
       "participantName": "Márcio Pires",
-      "participantPhoto": "https://avatars.githubusercontent.com/u/92009115?v=4"
+      "participantPhoto": "https://avatars.githubusercontent.com/u/92009115?v=4",
+      "participantLinkedIn": "https://www.linkedin.com/in/paulin-marcio/"
     },
     {
       "participantName": "Renata Bandeira",
-      "participantPhoto": "https://avatars.githubusercontent.com/u/99504695?v=4"
+      "participantPhoto": "https://avatars.githubusercontent.com/u/99504695?v=4",
+      "participantLinkedIn": "https://www.linkedin.com/in/renata-bandeira/"
     },
     {
       "participantName": "Vinícius Machado",
-      "participantPhoto": "https://avatars.githubusercontent.com/u/107431696?v=4"
+      "participantPhoto": "https://avatars.githubusercontent.com/u/107431696?v=4",
+      "participantLinkedIn": "https://www.linkedin.com/in/vin%C3%ADcius-machado-pacheco/"
     },
     {
       "participantName": "Natália Smaniotto",
-      "participantPhoto": "https://avatars.githubusercontent.com/u/106704416?v=4"
+      "participantPhoto": "https://avatars.githubusercontent.com/u/106704416?v=4",
+      "participantLinkedIn": "https://www.linkedin.com/in/nataliaasmaniotto/"
     },
     {
       "participantName": "Isabela Müller",
-      "participantPhoto": "https://avatars.githubusercontent.com/u/94134546?v=4"
+      "participantPhoto": "https://avatars.githubusercontent.com/u/94134546?v=4",
+      "participantLinkedIn": "https://www.linkedin.com/in/isabela-m%C3%BCllerrr/"
     },
     {
       "participantName": "Berto Toussaint",
-      "participantPhoto": "https://media-exp1.licdn.com/dms/image/D4D35AQEezwQ8a9WfuQ/profile-framedphoto-shrink_800_800/0/1628303056456?e=1660341600&v=beta&t=aCL_9_hkpSIjosoGN0ixhP_LRJh41wqibmQFxU0m81Q"
+      "participantPhoto": "data:image/jpeg;base64,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",
+      "participantLinkedIn": "https://www.linkedin.com/in/berto-alex-toussaint-4456a71a0/"
     },
     {
       "participantName": "Diego Colares",
-      "participantPhoto": "https://avatars.githubusercontent.com/u/108362930?v=4"
+      "participantPhoto": "https://media-exp1.licdn.com/dms/image/C5603AQFqc40XTq5ByA/profile-displayphoto-shrink_200_200/0/1631481660824?e=1666828800&v=beta&t=G8Pu57gb9rliddgX61uTtBaDe8mz57_lL0TvrdAy2yU",
+      "participantLinkedIn": "https://www.linkedin.com/in/diego-colares-40b903220/"
     },
     {
       "participantName": "Djênifer Gurskas",
-      "participantPhoto": "https://avatars.githubusercontent.com/u/102686979?v=4"
+      "participantPhoto": "https://avatars.githubusercontent.com/u/102686979?v=4",
+      "participantLinkedIn": "https://www.linkedin.com/in/djenifer-gurskas/"
     },
     {
       "participantName": "Doodley Gracia",
-      "participantPhoto": "https://media-exp1.licdn.com/dms/image/C4D03AQHrQg4kG3MaAQ/profile-displayphoto-shrink_800_800/0/1647346994729?e=1664409600&v=beta&t=EavbK4a0j9q6PKhp29U5qtjieseeSmv1GzOrxpoiKkE"
+      "participantPhoto": "https://media-exp1.licdn.com/dms/image/C4D03AQHrQg4kG3MaAQ/profile-displayphoto-shrink_800_800/0/1647346994729?e=1664409600&v=beta&t=EavbK4a0j9q6PKhp29U5qtjieseeSmv1GzOrxpoiKkE",
+      "participantLinkedIn": "https://www.linkedin.com/in/doodley-gracia-631654216/"
     },
     {
       "participantName": "Felipe Lima",
-      "participantPhoto": "https://media-exp1.licdn.com/dms/image/C4D03AQHUjzvNhG3tiw/profile-displayphoto-shrink_800_800/0/1582072824335?e=1664409600&v=beta&t=SP-kSBBRpEdWPcr3On2rtpRisGnfIbzLHa7vk21BPz8"
+      "participantPhoto": "https://media-exp1.licdn.com/dms/image/C4D03AQHUjzvNhG3tiw/profile-displayphoto-shrink_800_800/0/1582072824335?e=1664409600&v=beta&t=SP-kSBBRpEdWPcr3On2rtpRisGnfIbzLHa7vk21BPz8",
+      "participantLinkedIn": "https://www.linkedin.com/in/felipe-lima1990/"
     },
     {
       "participantName": "Gabriel Marques",
-      "participantPhoto": "https://avatars.githubusercontent.com/u/101673182?v=4"
+      "participantPhoto": "https://avatars.githubusercontent.com/u/101673182?v=4",
+      "participantLinkedIn": "https://www.linkedin.com/in/gabriel-marques-52431226/"
     },
     {
       "participantName": "Jean Garcia",
-      "participantPhoto": "https://avatars.githubusercontent.com/u/108361713?v=4"
+      "participantPhoto": "https://avatars.githubusercontent.com/u/108361713?v=4",
+      "participantLinkedIn": "https://www.linkedin.com/in/jeangarciaeng/"
     },
     {
       "participantName": "Jociane Vitorino",
-      "participantPhoto": "https://avatars.githubusercontent.com/u/106936300?v=4"
+      "participantPhoto": "https://media-exp1.licdn.com/dms/image/C4E03AQFDTQQ6KF7QAA/profile-displayphoto-shrink_200_200/0/1613185213200?e=1666828800&v=beta&t=GWtNsniSKGyP1KixXrvYqtVwAb7N9I2jdosTv5mcnZ8",
+      "participantLinkedIn": "https://www.linkedin.com/in/jociane-vitorino-788373165/"
     },
     {
       "participantName": "Rafaela Santos",
-      "participantPhoto": "https://avatars.githubusercontent.com/u/106936948?v=4"
+      "participantPhoto": "https://avatars.githubusercontent.com/u/106936948?v=4",
+      "participantLinkedIn": "https://www.linkedin.com/in/rafaela-santos-0b340723b/"
     },
     {
       "participantName": "Rayssa Pereira",
-      "participantPhoto": "https://avatars.githubusercontent.com/u/108361693?v=4"
+      "participantPhoto": "https://avatars.githubusercontent.com/u/108361693?v=4",
+      "participantLinkedIn": "https://www.linkedin.com/in/rayssa-de-souza/"
     },
     {
       "participantName": "Tassiana Lima",
-      "participantPhoto": "https://media-exp1.licdn.com/dms/image/D4D03AQEzdFYsN0oNfw/profile-displayphoto-shrink_800_800/0/1647953297759?e=1664409600&v=beta&t=3RE-agtZSptl9wEVwvb_dH1-cbgbkMisPGqPR7sUJpU"
+      "participantPhoto": "https://media-exp1.licdn.com/dms/image/C4D03AQHSgIdybDltHw/profile-displayphoto-shrink_800_800/0/1661613271675?e=1667433600&v=beta&t=47H_GCYYBC_wwg1IDQx37-fq-5O1w0ZNfehcjubAXxA",
+      "participantLinkedIn": "https://www.linkedin.com/in/tassianalimati/"
     },
     {
       "participantName": "Douglas Oliveira",
-      "participantPhoto": "https://media-exp1.licdn.com/dms/image/C4E03AQFzemvY9JaIGQ/profile-displayphoto-shrink_800_800/0/1657193693454?e=1664409600&v=beta&t=jVutV0u4zp6THSvJVgPrU39p4kJwstpOIy11DtgybEM"
+      "participantPhoto": "https://media-exp1.licdn.com/dms/image/C4E03AQFzemvY9JaIGQ/profile-displayphoto-shrink_800_800/0/1657193693454?e=1664409600&v=beta&t=jVutV0u4zp6THSvJVgPrU39p4kJwstpOIy11DtgybEM",
+      "participantLinkedIn": "https://www.linkedin.com/in/douglas-oliveira-6814a523b/"
     },
     {
       "participantName": "Alex Carvalho",
-      "participantPhoto": "https://avatars.githubusercontent.com/u/108312556?v=4"
+      "participantPhoto": "https://avatars.githubusercontent.com/u/108312556?v=4",
+      "participantLinkedIn": ""
     },
     {
       "participantName": "Bianca Ferreira",
-      "participantPhoto": "https://avatars.githubusercontent.com/u/108361671?v=4"
+      "participantPhoto": "https://media-exp1.licdn.com/dms/image/C4D03AQEHC5_CSUh4Yg/profile-displayphoto-shrink_200_200/0/1659027419993?e=1666828800&v=beta&t=LD3kea_OOqVrrnblogkckyAYeUp6Nl0HpCtA-a72KUI",
+      "participantLinkedIn": "https://www.linkedin.com/search/results/all/?keywords=bianca%20ferreira&origin=RICH_QUERY_SUGGESTION&position=0&searchId=93194d9f-a67f-41b7-a822-64c6bb9732e5&sid=1(4"
     },
     {
       "participantName": "Alisson Freitas",
-      "participantPhoto": "https://avatars.githubusercontent.com/u/108361784?v=4"
+      "participantPhoto": "https://media-exp1.licdn.com/dms/image/D4D35AQHGohSSaNuIAQ/profile-framedphoto-shrink_200_200/0/1658711614552?e=1662141600&v=beta&t=8jYj7skfiyDwmVgWMp4idQo9X9eKClXPaCgqRD14iVQ",
+      "participantLinkedIn": "https://www.linkedin.com/in/alisson-freitas-75166b239/"
     }
   ]
 }
