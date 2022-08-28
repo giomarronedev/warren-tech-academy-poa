@@ -53,6 +53,41 @@ body.dark-mode .footer {
   background: rgba(237, 46, 92, 0.5);
 }
 
+.participants a:hover {
+  text-decoration: none;
+}
+
+.photo-gallery {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+  column-count: 2;
+  justify-content: center;
+  align-items: center;
+}
+
+.gallery-item {
+  height: 100%;
+  max-width: 50rem;
+  border-radius: 2rem;
+}
+
+.gallery-item-bg {
+  border: 2px solid rgba(237, 46, 92, 0.1);
+  background-color: transparent;
+  padding: 2rem;
+  border-radius: 2rem;
+  transition: .2s;
+}
+
+.gallery-item-bg:hover {
+  transition: .2s;
+  border: 2px solid var(--brand-red);
+  background-color: rgba(237, 46, 92, 0.1);
+  padding: 2rem;
+  border-radius: 2rem;
+}
+
 /* Dispositivos grandes (laptops/desktops, 992px e superior) */
 @media only screen and (min-width: 992px) {
   .wrapper {
@@ -190,6 +225,18 @@ body.dark-mode .footer {
     align-items: center;
   }
 
+  .home .location {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-top: -1rem;
+    margin-bottom: 1rem;
+  }
+
+  .home .location h3 {
+    font-size: 2rem;
+  }
+
   .home .text-area p {
     margin-bottom: 0;
   }
@@ -198,7 +245,7 @@ body.dark-mode .footer {
     max-width: 50rem;
     display: flex;
     flex-direction: column;
-    gap: 2rem;
+    gap: 1rem;
   }
 
   .home img {
@@ -361,6 +408,9 @@ body.dark-mode .footer {
   .footer p {
     margin: 0;
   }
+
+    /* GALLERY ============================================== */
+
 }
 
 
@@ -428,6 +478,19 @@ body.dark-mode .footer {
   h3 {
     color: var(--brand-red);
     font-size: 2rem;
+  }
+
+  .home .location {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 1rem;
+    justify-content: center;
+  }
+
+  .home .location h3 {
+    font-size: 1.5rem;
+    font-weight: 500;
   }
 
   p {
@@ -677,6 +740,19 @@ body.dark-mode .footer {
   h3 {
     color: var(--brand-red);
     font-size: 2rem;
+  }
+
+  .home .location {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 1rem;
+    justify-content: center;
+  }
+
+  .home .location h3 {
+    font-size: 2rem;
+    font-weight: 500;
   }
 
   p {
