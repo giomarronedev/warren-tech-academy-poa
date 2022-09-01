@@ -68,23 +68,9 @@ body.dark-mode .footer {
 
 .gallery-item {
   height: 100%;
-  max-width: 50rem;
-  border-radius: 2rem;
-}
-
-.gallery-item-bg {
-  border: 2px solid rgba(237, 46, 92, 0.1);
-  background-color: transparent;
-  padding: 2rem;
-  border-radius: 2rem;
-  transition: .2s;
-}
-
-.gallery-item-bg:hover {
-  transition: .2s;
-  border: 2px solid var(--brand-red);
-  background-color: rgba(237, 46, 92, 0.1);
-  padding: 2rem;
+  width: 50rem;
+  max-height: 50rem;
+  object-fit: cover;
   border-radius: 2rem;
 }
 
