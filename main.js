@@ -12,14 +12,13 @@ async function returnParticipants() {
 
   const data = await promise.json();
 
-  let participantsList = document.getElementById("participantsList");
-
   for (i = 0; i < data.participants.length; i++) {
     let participant = `
                       <div class="participant">
                           <a target="_blank" href="${data.participants[i].participantLinkedIn}">
                             <img class="participant-avatar" src="${data.participants[i].participantPhoto}" alt="Avatar">
-                            <p class="participant-name">${data.participants[i].participantName}</p>
+                            <p class="participant-name">${data.participants[i].participantName
+                            }</p>
                           </a>
                       </div>
     `;
@@ -50,14 +49,14 @@ let galleryPhotos = [
   "./assets/gallery/wta-poa-vader-01.jpeg",
 ];
 
+
+
 function returnGallery() {
   let galleryArea = document.getElementById("photo-gallery");
 
   for (i = 0; i < galleryPhotos.length; i++) {
     let galleryItem = `
-    <div class="gallery-item-bg">
       <img class="gallery-item" src="${galleryPhotos[i]}" alt="teste">
-    </div>
     `;
 
     galleryArea.innerHTML += galleryItem;
