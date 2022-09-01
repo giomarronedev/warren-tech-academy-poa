@@ -27,11 +27,6 @@
       "participantLinkedIn": "https://www.linkedin.com/in/douglasfs/"
     },
     {
-      "participantName": "Luciano Trevisol",
-      "participantPhoto": "https://avatars.githubusercontent.com/u/80292806?v=4",
-      "participantLinkedIn": ""
-    },
-    {
       "participantName": "Wagner Morais",
       "participantPhoto": "https://avatars.githubusercontent.com/u/89792700?v=4",
       "participantLinkedIn": "https://www.linkedin.com/in/wagnerlmorais/"
@@ -45,6 +40,11 @@
       "participantName": "Steven Albernaz",
       "participantPhoto": "https://avatars.githubusercontent.com/u/69523315?v=4",
       "participantLinkedIn": "https://www.linkedin.com/in/steven-albernaz-86290b4b/"
+    },
+    {
+      "participantName": "Douglas Oliveira",
+      "participantPhoto": "https://media-exp1.licdn.com/dms/image/C4E03AQFzemvY9JaIGQ/profile-displayphoto-shrink_800_800/0/1657193693454?e=1664409600&v=beta&t=jVutV0u4zp6THSvJVgPrU39p4kJwstpOIy11DtgybEM",
+      "participantLinkedIn": "https://www.linkedin.com/in/douglas-oliveira-6814a523b/"
     },
     {
       "participantName": "Diully Ledur",
@@ -102,6 +102,11 @@
       "participantLinkedIn": "https://www.linkedin.com/in/djenifer-gurskas/"
     },
     {
+      "participantName": "Luciano Trevisol",
+      "participantPhoto": "https://avatars.githubusercontent.com/u/80292806?v=4",
+      "participantLinkedIn": "https://www.linkedin.com/search/results/all/?keywords=Luciano%20Trevisol&origin=GLOBAL_SEARCH_HEADER&sid=aAy"
+    },
+    {
       "participantName": "Doodley Gracia",
       "participantPhoto": "https://media-exp1.licdn.com/dms/image/C4D03AQHrQg4kG3MaAQ/profile-displayphoto-shrink_800_800/0/1647346994729?e=1664409600&v=beta&t=EavbK4a0j9q6PKhp29U5qtjieseeSmv1GzOrxpoiKkE",
       "participantLinkedIn": "https://www.linkedin.com/in/doodley-gracia-631654216/"
@@ -142,14 +147,9 @@
       "participantLinkedIn": "https://www.linkedin.com/in/tassianalimati/"
     },
     {
-      "participantName": "Douglas Oliveira",
-      "participantPhoto": "https://media-exp1.licdn.com/dms/image/C4E03AQFzemvY9JaIGQ/profile-displayphoto-shrink_800_800/0/1657193693454?e=1664409600&v=beta&t=jVutV0u4zp6THSvJVgPrU39p4kJwstpOIy11DtgybEM",
-      "participantLinkedIn": "https://www.linkedin.com/in/douglas-oliveira-6814a523b/"
-    },
-    {
       "participantName": "Alex Carvalho",
       "participantPhoto": "https://avatars.githubusercontent.com/u/108312556?v=4",
-      "participantLinkedIn": ""
+      "participantLinkedIn": "https://www.linkedin.com/search/results/all/?keywords=alex%20de%20carvalho&origin=TYPEAHEAD_HISTORY&position=0&searchId=7020c8e2-6ead-45f0-9957-d7c64e3f6242&sid=fjb"
     },
     {
       "participantName": "Bianca Ferreira",
