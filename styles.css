@@ -397,6 +397,7 @@ body.dark-mode .footer {
 
     /* GALLERY ============================================== */
 
+
 }
 
 
@@ -661,6 +662,24 @@ body.dark-mode .footer {
   .footer p {
     margin: 0;
   }
+
+  .photo-gallery {
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+    column-count: 2;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .gallery-item {
+    height: 100%;
+    width: 100%;
+    background-color: #ed2e5c;
+    max-height: 50rem;
+    object-fit: cover;
+    border-radius: 2rem;
+  }
 }
 
 /* tablet */
@@ -923,6 +942,7 @@ body.dark-mode .footer {
   .footer p {
     margin: 0;
   }
+
 }
 
 /* @media only screen and (min-width: 768px) {
